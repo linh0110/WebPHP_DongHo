@@ -1,0 +1,1 @@
+<div class="bannerql" align="center"><h1>TRANG QUẢN LÝ</h1></div>
